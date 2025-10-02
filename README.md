@@ -24,13 +24,13 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />  
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />  
   <br/>
   <!-- Web -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" />  
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,figma" />  
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />  
 </p>
 
 ---
