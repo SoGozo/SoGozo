@@ -42,9 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoGozo&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoGozo&layout=compact&theme=tokyonight&langs_count=8" height="160"/>
-</p>
+
 
 ---
 
