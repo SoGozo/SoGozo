@@ -9,13 +9,6 @@
 
 <h3 align="center">🚀 CS Student @ Texas Tech | AI/ML Enthusiast | Hackathon Builder</h3>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;Hackathon+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 About Me  
