@@ -13,8 +13,7 @@
 
 ## 🌟 About Me  
 - 🎓 Sophomore @ **Texas Tech University**  
-- 💻 Passionate about **AI, Web Development, and Hackathon Projects**  
-- 🌍 Represented TTU at **HackRice, CalHacks, HackWesTX, TidalHack**  
+- 💻 Passionate about **AI, Web Development, and Hackathon Projects**   
 - 🎥 Love blending **tech + creativity**  
 - ⚡ Fun fact: I enjoy building crazy AI side-projects that sometimes actually work 😅  
 
