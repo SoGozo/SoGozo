@@ -40,7 +40,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SoGozo&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoGozo&theme=tokyonight" height="160"/>
 </p>
+---
 
+## 📈 **Activity Pulse**  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoGozo&theme=dracula&hide_border=true" alt="Activity Graph"/>
+</div>
+ ---
 
 
 ---
