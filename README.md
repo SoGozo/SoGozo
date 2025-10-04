@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoGozo&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoGozo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoGozo&theme=tokyonight" height="160"/>
 </p>
 ---
